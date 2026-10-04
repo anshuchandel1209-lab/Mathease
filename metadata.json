@@ -1,0 +1,6 @@
+{
+  "name": "MathEase 11",
+  "description": "Class 11 Maths made simple: step-by-step interactive solvers, complete chapter formula cheat sheets, concept breakdowns, and confidence tracker for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
